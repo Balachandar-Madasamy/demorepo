@@ -1,7 +1,9 @@
 Hello ,
 
-I am Balachandar
+I am Balachandar Madasamy
 
-I am a Data Scientist
+I am a Data Scientist at BNP Paribas
 
-Thanks and regards
+Thanks and regards,
+
+Balachandar
